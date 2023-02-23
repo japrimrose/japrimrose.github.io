@@ -8,3 +8,4 @@
 #### [NCEI ISO Explorer 19115-2](https://japrimrose.github.io/ISO_Explorer/iso_explorer.html)
 ---
 #### [Demo](https://japrimrose.github.io/ISO_Explorer/demo/demo.html)
+#### [Legend Demo](https://japrimrose.github.io/ISO_Explorer/demo/legend.html)
